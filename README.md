@@ -61,7 +61,7 @@ A collection of small, focused notebooks demonstrating core ML concepts such as 
 ---
 
 ## 🔹 Contact
-**Email:** ganagallajoshitha123@gmail.com  
-**LinkedIn:** *Add your LinkedIn profile link here*
+**Email:** ganagallajoshitha@gmail.com 
+**LinkedIn:** https://www.linkedin.com/in/joshitha-ganagalla/
 
 ---
