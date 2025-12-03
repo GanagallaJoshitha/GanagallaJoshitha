@@ -1,67 +1,76 @@
-# Joshitha Ganagalla
-
-Aspiring **Data Analyst** and **Machine Learning enthusiast** with a strong interest in data-driven problem-solving.  
-I focus on building practical, end-to-end projects involving data preprocessing, analysis, visualization, predictive modeling, and deploying lightweight applications.
-
----
-
-## 🔹 About Me
-- Final-year Computer Science Engineering student  
-- Actively building projects in Data Analytics and Machine Learning  
-- Improving fundamentals in Python, SQL, and software development  
-- Interested in roles such as **Data Analyst**, **Business Analyst**, and **ML Intern**
+<!-- Header Title -->
+<h1 align="center">👋 Hey, I'm <strong>Joshitha Ganagalla</strong></h1>
+<p align="center"><strong>Aspiring Data Analyst | ML Enthusiast | Python Lover</strong></p>
 
 ---
 
-## 🔹 Skills & Technologies
-
-### Programming & Querying
-- Python  
-- SQL  
-- JavaScript (beginner)
-
-### Machine Learning & Data
-- Scikit-Learn  
-- Pandas, NumPy  
-- Basic NLP (SBERT)  
-- Data cleaning & preprocessing  
-- Exploratory data analysis (EDA)
-
-### Tools & Frameworks
-- Jupyter Notebook  
-- Flask  
-- Tableau  
-- Git & GitHub  
-- VS Code
+## 🚀 About Me
+- Final-year CSE student passionate about **Data Analytics & Machine Learning**
+- Love working on **recommendation systems**, **EDA**, and **ML mini-projects**
+- Currently improving my **Python, SQL, and ML fundamentals**
+- Open to roles like **Data Analyst**, **Business Analyst**, and **ML Intern**
 
 ---
 
-## 🔹 Projects
+## 🛠 Tech Stack
+### **Languages & Querying**
+<img src="https://skillicons.dev/icons?i=python,js,mysql" />
 
-### **Retail & E-Commerce Support System**
-A combined text and image recommendation system using:  
+### **ML / Data**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
+Pandas • NumPy • Scikit-Learn • SBERT • ResNet50 • EDA • Data Cleaning
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />  
+Tableau • Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **Retail & E-Commerce Support System**
+ML-powered hybrid recommendation system using:
 - **SBERT** for text similarity  
-- **ResNet50** for image-based recommendations  
-- **Tableau** dashboards for visual insights  
+- **ResNet50** for image similarity  
+- **Tableau dashboards** for insights  
 
-### **Text-to-Image Generator (Flask App)**
-A web-based application built using Flask and transformer models to generate images from text prompts.
-
-### **Mini Machine Learning Projects**
-A collection of small, focused notebooks demonstrating core ML concepts such as classification, regression, and visualization.
+🔗 *Project link coming soon…*
 
 ---
 
-## 🔹 Current Focus
-- Strengthening Python and SQL foundations  
-- Completing 2–3 portfolio-ready data projects  
-- Practicing data visualization and reporting  
-- Preparing for Data Analyst / ML roles  
+### 🔹 **Text-to-Image Generator (Flask App)**
+Web app that converts text prompts into AI-generated images using transformer models.
 
 ---
 
-## 🔹 Contact
-**Email:** ganagallajoshitha@gmail.com 
-**LinkedIn:** *https://www.linkedin.com/in/joshitha-ganagalla/*
+### 🔹 **Machine Learning Mini Projects**
+Small notebooks demonstrating:
+- Classification  
+- Regression  
+- Visualization  
+- Feature engineering  
 
 ---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GanagallaJoshitha&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanagallaJoshitha&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Streaks
+<p align="center">
+  <img height="200" src="https://streak-stats.demolab.com/?user=GanagallaJoshitha&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+📩 **Email:** ganagallajoshitha@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/joshitha-ganagalla/
+
+---
+
+<p align="center">✨ Always learning. Always building.</p>
