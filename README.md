@@ -53,10 +53,9 @@ Small notebooks demonstrating:
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GanagallaJoshitha&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanagallaJoshitha&layout=compact&theme=radical" />
-</p>
+### 📊 GitHub Stats
+![Joshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=GanagallaJoshitha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanagallaJoshitha&layout=compact&theme=radical)
 
 ---
 
