@@ -1,14 +1,10 @@
 <!-- 👋 INTRO -->
 <h1 align="center">
-  Hi 👋, I'm Joshi Ganagalla
+  Hi 👋, I'm Joshitha Ganagalla
 </h1>
 <h3 align="center">
-  Aspiring Full-Stack Developer | Data Analytics & ML Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&width=500&lines=Full-Stack+Developer;Data+Analytics+%26+ML+Enthusiast" alt="Typing Animation">
 </h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
-</p>
 
 ---
 
@@ -22,8 +18,8 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joshitha-ganagalla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ganagallajoshitha@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/GanagallaJoshitha"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
