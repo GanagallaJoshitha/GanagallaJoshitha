@@ -1,71 +1,81 @@
-# 👋 Hi, I’m Joshitha Ganagalla
+<!-- 👋 INTRO -->
+<h1 align="center">Hi 👋, I'm Joshitha Ganagalla</h1>
 
-I’m a **4th-year Computer Science student** focused on **Full-Stack Development**, **Data Analytics**, and **Machine Learning**.  
-I enjoy building projects that **solve real-world problems** and learning skills to grow in tech.
-
----
-
-## 🔭 I’m currently working on
-- Full-stack web apps using **MERN stack** with **Supabase**.  
-- AI-powered dashboards for productivity and analytics.  
-- Preparing for **internships and job-ready projects**.  
+<p align="center">
+  Aspiring Full Stack Developer | Data Analytics & ML Learner
+</p>
 
 ---
 
-## 🌱 I’m currently learning
-- Advanced **JavaScript & TypeScript**  
-- **Python** for data analytics & ML  
-- **React & Node.js** for production-ready web apps  
-- Deployment & cloud tools: **Vercel, Netlify**  
+<!-- ABOUT ME -->
+## 💡 About Me
+
+- I’m a **4th‑year Computer Science student** learning web development, data analytics, and machine learning  
+- I love building cool projects and learning new tech  
+- I’m open to collaborating on real‑world challenges  
+- In my free time: 🎮 Games | ☕ Learning | 📚 Exploring tech concepts  
+- Ask me about **React, Node.js, Python, Tableau, Machine Learning basics, Supabase**
 
 ---
 
-## 💻 Skills
-**Languages:** JavaScript, Python, HTML, CSS, SQL  
-**Frameworks & Libraries:** React, Node.js, Express.js  
-**Database & Tools:** Supabase (PostgreSQL), MongoDB (basics), Git & GitHub, Tableau  
-**Other:** REST APIs, Data Analytics, Machine Learning (basic)  
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshitha-ganagalla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn‑blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="ganagallajoshitha@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email‑D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/GanagallaJoshitha"><img alt="GitHub" src="https://img.shields.io/badge/GitHub‑181717?style=flat&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 📂 Projects
+## 🚀 Tech Stack
 
-### 1️⃣ AI-Powered Daily Time Tracking Dashboard
-**Tech Stack:** React, TypeScript, Vite, Google AI Studio  
-- Logs daily tasks and tracks time efficiently  
-- Provides visual insights on productivity trends over days, weeks, and months  
-- Implements AI analytics for actionable suggestions  
+### 🛠️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5‑E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3‑1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript‑F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React‑61DAFB?style=flat&logo=react&logoColor=black)
 
-### 2️⃣ Mini User Authentication API
-**Tech Stack:** Node.js, Express.js, Supabase  
-- Secure signup and login  
-- Stores user data safely and fetches profile without exposing password  
+### 🧠 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js‑339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express‑000000?style=flat&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase‑3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL‑336791?style=flat&logo=postgresql&logoColor=white)
 
-### 3️⃣ Text-to-Image Generation Web App
-**Tech Stack:** Python, Flask, Stable Diffusion, HTML/CSS/JS  
-- Converts text prompts into images using AI  
-- Web-based interface with user-friendly design  
+### 🧪 Data & ML
+![Python](https://img.shields.io/badge/Python‑3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau‑E97627?style=flat&logo=tableau&logoColor=white)
 
-*(Add more projects as you complete them!)*  
-
----
-
-## 🏆 Achievements & Certifications
-- Half Marathon Completed – Speaking & Reading Marathon (Masai)  
-- Ongoing learning in **Data Analytics and Machine Learning**  
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git‑F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub‑181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/joshitha-ganagalla/)  
-[Email](ganagallajoshitha@gmail.cpm)  
+## 💼 Projects
 
----
+### 📌 AI‑Powered Time Tracking Dashboard  
+**Tech:** React, TypeScript, Vite, Google AI Studio  
+➡️ Tracks daily tasks and visualizes productivity trends
 
-## ⚡ Fun Fact
-I love **solving problems through code** and turning my “game mode” lifestyle into **productive project mode** 😎  
+### 📌 Mini User Authentication API  
+**Tech:** Node.js, Express.js, Supabase  
+➡️ Secure signup & login API backend
+
+### 📌 Text‑to‑Image AI Web App  
+**Tech:** Flask, Stable Diffusion, Python, HTML, CSS  
+➡️ Generates images from text prompts
+
+*(Add links to live demos & GitHub repos when available!)*
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Joshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanagallaJoshitha&show_icons=true&theme=radical)
+
+---
+
+## 💬 Let’s Chat!
+
+I’m always learning and growing — let’s connect and build awesome stuff together! 🚀
