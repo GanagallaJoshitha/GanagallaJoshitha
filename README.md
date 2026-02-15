@@ -1,6 +1,6 @@
 <!-- 👋 INTRO -->
 <h1 align="center">
-  Hi 👋, I'm Joshitha Ganagalla
+  Hi 👋, I'm Joshi Ganagalla
 </h1>
 <h3 align="center">
   Aspiring Full-Stack Developer | Data Analytics & ML Enthusiast
@@ -13,8 +13,8 @@
 ---
 
 ## 💡 About Me
-- 4th-year **Computer Science student** passionate about **Full-Stack Development**, **Data Analytics**, and **Machine Learning**  
-- I love **building projects** that solve real-world problems  
+- 4th-year **Computer Science student** passionate about **web development**, **data analytics**, and **machine learning**  
+- I enjoy **building real-world projects** and **learning new technologies**  
 - Open to collaboration and internship opportunities 💼  
 - Fun fact: Turning my “game mode” lifestyle into **productive project mode** 🎮➡️💻
 
@@ -22,40 +22,32 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshitha-ganagalla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ganagallajoshitha@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/GanagallaJoshitha"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/GanagallaJoshitha"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 Skills & Tech Stack
+## 🚀 Tech Stack
 
-**Frontend**
-<p align="left">
-  HTML5 &nbsp; <img src="https://progress-bar.dev/90/?title=HTML" />  
-  CSS3 &nbsp; <img src="https://progress-bar.dev/85/?title=CSS" />  
-  JavaScript &nbsp; <img src="https://progress-bar.dev/80/?title=JS" />  
-  React &nbsp; <img src="https://progress-bar.dev/75/?title=React" />  
-</p>
+### 🛠️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Backend & Databases**
-<p align="left">
-  Node.js &nbsp; <img src="https://progress-bar.dev/70/?title=Node.js" />  
-  Express.js &nbsp; <img src="https://progress-bar.dev/65/?title=Express" />  
-  PostgreSQL &nbsp; <img src="https://progress-bar.dev/60/?title=PostgreSQL" />  
-</p>
+### 🧠 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Data & ML**
-<p align="left">
-  Python &nbsp; <img src="https://progress-bar.dev/70/?title=Python" />  
-</p>
+### 🧪 Data & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Tools**
-<p align="left">
-  Git &nbsp; <img src="https://progress-bar.dev/80/?title=Git" />  
-  GitHub &nbsp; <img src="https://progress-bar.dev/75/?title=GitHub" />  
-</p>
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -76,7 +68,7 @@
 - Generates images from text prompts  
 - Web-based interface with user-friendly design  
 
-*(Add live demo or repo links for each project!)*
+*(Add live demo or repo links!)*
 
 ---
 
