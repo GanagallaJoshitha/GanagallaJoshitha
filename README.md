@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joshi Ganagalla
+# 👋 Hi, I’m Joshitha Ganagalla
 
 I’m a **4th-year Computer Science student** focused on **Full-Stack Development**, **Data Analytics**, and **Machine Learning**.  
 I enjoy building projects that **solve real-world problems** and learning skills to grow in tech.
